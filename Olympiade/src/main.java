@@ -1,4 +1,3 @@
-
 public class main {
 
 	/**
@@ -8,6 +7,7 @@ public class main {
 		// Bla bla bla 
 		//Hallo Chris
 		// bitte schreib hier doch was dazu mit "//" (Kommentar)
+		//Ja so viel kenn ich aus Java auch noch ich bin ja schließlich ein PROgrammierer :D
 
 	}
 
