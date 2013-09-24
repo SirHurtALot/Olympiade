@@ -7,6 +7,7 @@
 	public static void main(String[] args) {
 
 		
+
 		// Das ist eine Schleife
 		for(int i = 1; i < 10; i++){
 			System.out.println(quadratZahl(i));
