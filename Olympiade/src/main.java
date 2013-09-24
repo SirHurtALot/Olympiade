@@ -1,24 +1,20 @@
-public class main {
+﻿public class main {
 
 	/**
+	 * Dieses programm gibt ganz viele Quadratzahlen aus!
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// Bla bla bla 
-		//Hallo Chris
-		// bitte schreib hier doch was dazu mit "//" (Kommentar)
-
-		//Ich hab übelste PROgrammierskills in Java!
-		//HERPADERPA
 		
-		//toll das dus wei�t!
-		
-		//Test test
+		// Das ist eine Schleife
+		for(int i = 1; i < 10; i++){
+			System.out.println(quadratZahl(i));
+		}
 
-		//Ja klar ich weiß das noch von Java ich hab ja schließlich PROgrammierskills :'D
+	}
 
-		
-
+	private static int quadratZahl(int i) {
+		return i*i;
 	}
 
 }
