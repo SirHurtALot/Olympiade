@@ -7,10 +7,14 @@ public class main {
 		// Bla bla bla 
 		//Hallo Chris
 		// bitte schreib hier doch was dazu mit "//" (Kommentar)
+
 		//Ich hab übelste PROgrammierskills in Java!
 		//HERPADERPA
 		
 		//Test test
+
+		//Ja klar ich weiß das noch von Java ich hab ja schließlich PROgrammierskills :'D
+
 
 	}
 
