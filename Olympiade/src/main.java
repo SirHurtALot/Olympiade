@@ -11,11 +11,15 @@ public class main {
 		//Ich hab übelste PROgrammierskills in Java!
 		//HERPADERPA
 		
-		//toll das dus wei�t!
+		//toll das dus wei�t!
 		
 		//Test test
 
 		//Ja klar ich weiß das noch von Java ich hab ja schließlich PROgrammierskills :'D
+		
+		
+		
+		//KAAAAAAAAAAAAAAAATYYYYY was geheeeeet aaaaaabeee? *alles kill*
 
 		
 
